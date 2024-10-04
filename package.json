@@ -1,0 +1,11 @@
+{
+  "name": "qap2-java",
+  "version": "1.0.0",
+  "description": "second QAP for Keyin College's Java course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Metcalfe",
+  "license": "MIT"
+}
